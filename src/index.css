@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-size: cover;
+  background:url('https://www.freepik.com/free-vector/abstract-ink-splatter-grunge-background_9406247.htm#page=1&query=blue%20background&position=7')
 }
 
 code {
